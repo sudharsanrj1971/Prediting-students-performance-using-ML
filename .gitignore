@@ -1,0 +1,8 @@
+catboost_info/
+logs/
+mlproject.egg-info/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
